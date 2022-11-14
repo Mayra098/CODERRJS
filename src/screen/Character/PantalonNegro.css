@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.imagen{
+    width: 400px !important;
+}
+section{
+   
+
+    font-family: 'Montserrat', sans-serif;    display: flex;
+
+justify-content: center;
+    flex-wrap: nowrap;
+    margin: 5em;
+    margin-top: 0em;
+    
+}
+.text{
+    justify-content: center;
+    width: 250px;
+    margin-top: 3em;
+
+}
+
+.comprar{
+   
+        border-radius: 100px;
+      width: 280px;
+      margin-right: 1em;
+      margin-left: 1em;
+     
+         height: 30px;
+        background-color: rgb(13, 150, 123);
+        border-color:transparent;
+     
+}
+.vermas{
+
+    border-radius: 100px;
+    width: 110px;
+    margin-top: 2em!important;
+    margin-bottom: 0em;
+    margin-left: 3em !important;
+       height: 30px;
+      background-color: rgb(13, 150, 123);
+      border-color:transparent;
+}
+
+#label, #so{
+      margin-left: 7em !important;  
+    
+}
+#label{
+    margin-left: 7.4em !important;  
+/* background-color: rebeccapurple;
+ */}
+#so{
+    margin-bottom: 2em;
+}

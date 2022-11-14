@@ -1,0 +1,23 @@
+.sumarB, .restarB{
+   border-radius: 100px;
+ width: 80px;
+ margin-right: 1em;
+ margin-left: 1em;
+
+    height: 30px;
+   background-color: rgba(13, 150, 123, 0.321);
+   border-color:transparent;
+}
+.conta{
+    border-radius: 100px;
+    border: 1px gray solid;
+    border-radius: 20px;
+text-align: center;
+  width: 80px;
+    height: 30px;
+
+}
+.contador{
+    display: flex;
+
+}

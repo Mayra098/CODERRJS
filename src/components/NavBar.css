@@ -1,0 +1,12 @@
+a{
+    color: rgb(76, 58, 60) !important;
+}
+a:hover{
+    color: rgb(255, 248, 248) !important;
+}
+.Nav{
+    position: sticky;
+    position: relative;
+    top: 0;
+
+}

@@ -1,0 +1,20 @@
+.footer{
+    background-color: rgba(29, 46, 46, 0.584);
+    height: 170px;
+    color: aliceblue;
+padding-bottom: 2em;
+}
+li{
+list-style:  none !important;
+display: flex;
+flex-wrap: nowrap;
+margin: 0.5em;
+
+justify-content:center ;
+}
+ul{
+padding-top: 1em !important;
+margin-bottom: 5em !important;
+}
+
+
